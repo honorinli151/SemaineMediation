@@ -4,5 +4,5 @@
 | Lettre d'intention| Tous|
 |Texte | Manolis |
 | Slides | Chenle |
-|Poster | Manolis, Xiaoyu |
+|Poster | Julien, Xiaoyu |
 |Presentation Mercredi martin| Manolis|
